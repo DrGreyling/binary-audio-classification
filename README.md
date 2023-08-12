@@ -4,4 +4,4 @@ A classification model which can detect the vocalisations of gibbons from other 
 
 Here you will find the associated notebook where a classification model is developed to distinguish between gibbon calls and every other sound in the nature reserve. Thus, it is a binary classification problem.
 
-This notebook was made to run in Google Colab where RAM might be an issue on the free account. Throughout the notebook, unused session variables are reset to save on memory and RAM. This notebook is intended to run end-to-end with no memory issues.
+This notebook was made to run in Google Colab where RAM might be an issue on the free account. Throughout the notebook, unused session variables are reset to save on memory and RAM. This notebook is intended to run end-to-end with no memory issues. Audio files are downloadable here (https://zenodo.org/record/3991714)
